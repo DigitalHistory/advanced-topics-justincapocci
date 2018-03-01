@@ -152,13 +152,13 @@ function initializeMap() {
     fillOpacity: 0.35,
     map: my_map,
     bounds: {
-      north: 42.685,
-      south: 40.671,
-      east: 12.501,
-      west: 12.485
+      north: 45.530503,
+      south: 45.496761,
+      east: -73.554729,
+      west: -73.613894
     },
 
-    center: {"lat": 41.9000, "lng":12.5000},
+    center: {"lat": 45.518715, "lng":-73.581250},
     radius: 1000
   });
   my_map.data.setStyle(function (feature) {
