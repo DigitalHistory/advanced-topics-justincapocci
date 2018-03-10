@@ -1,19 +1,14 @@
 # The Montreal Video Game Cluster
-Introduction
+<h2>Introduction</h2>
 
-In understanding the historical significance of spaces, clusters of economic activity are key to examining how places become associated culturally with specific industries. There are a number of well known clusters that have become a part of our collective consciousness, such as Wall Street being associated with investment banking, Silicon Valley with software development, and Hollywood with motion pictures. A less well known one that is nonetheless significant to the spatial history of the area is the video game development industry in Montreal, Quebec. Looking at the map below, it can be seen that the marked locations, each representing the large studios in Montreal (studios which employ over 200 employees), are within a very small area of only a few kilometres between its furthest points. The close proximity of these studios and the auxiliary companies that enable large scale game development are what establish the area as a cluster of development. By looking at the history of the cluster in the past three decades, the policies which produced it, its impact on the economic situation of Montreal, and its importance to the cultural image of the city as a centre for creativity and success in the gaming industry.
-<figure>
-![](https://upload.wikimedia.org/wikipedia/commons/a/ab/Lolcat_in_folder.jpg "this is the alt text")<figcaption>caption</figcaption>
-</figure>
-It makes sense to put an introductory paragraph here, above the map and buttons. To change the bootswatch thenme, change "united" to one of the other theme names listed at [strapdownjs.com](http://strapdownjs.com/).
+<p>In understanding the historical significance of spaces, clusters of economic activity are key to examining how places become associated culturally with specific industries. There are a number of well known clusters that have become a part of our collective consciousness, such as Wall Street being associated with investment banking, Silicon Valley with software development, and Hollywood with motion pictures. A less well known one that is nonetheless significant to the spatial history of the area is the video game development industry in Montreal, Quebec. Looking at the map below, it can be seen that the marked locations, each representing the large studios in Montreal (studios which employ over 200 employees), are within a very small area of only a few kilometres between its furthest points. The close proximity of these studios and the auxiliary companies that enable large scale game development are what establish the area as a cluster of development. By looking at the history of the cluster in the past three decades, the policies which produced it, its impact on the economic situation of Montreal, and its importance to the cultural image of the city as a centre for creativity and success in the gaming industry.
 
 
 <div class="markers">
   <!-- these buttons hide/show all the markers  -->
   <!-- to hide/show blue or red markers instead, change my_markers below to blue_markers
        to red_markers.  If you have defined your own color (or other) arrays, use those instead -->
-  <button onclick="toggleMarkers(my_markers, my_map)" class="rounded" id="hide">Toggle markers</button>
-  <button onclick="showMarkers(my_markers, my_map)" id="show"> show markers</button>
+
 </div>
   <div id="mapcontainer">
     <div id="map_canvas"></div>
