@@ -60,55 +60,50 @@ function initializeMap() {
                 icon: blueURL, // this sets the image that represents the marker in the map to the one
                                // located at the URL which is given by the variable blueURL, see above
                 title: "Behaviour Interactive",
-                window_content: "<h1>Marker1</h1><p> and this would be the extended description</p>"
+                window_content: "<h1>Behaviour Interactive</h1><p>Known for hit titles such as <i>Dead by Daylight</i> and <i>Far Cry 3<i/></p>"
                },
                {position: new google.maps.LatLng(45.500609,-73.577025),
                 map: my_map,
                 icon: blueURL, // this sets the image that represents the marker in the map
                 title: "EA Motive Studios",
-                window_content: "<h1>Marker2</h1><p> and <a href='http://something'>this would</a> be the extended description</p>"
+                window_content: "<h1>EA Motive Studios</h1><p> A more recent studio created by EA, they are responsible for the recent iterations of the <i>Star Wars: Battlefront</i> series</p>"
               },
               {position: new google.maps.LatLng(45.506213,-73.569076),
                map: my_map,
                icon: blueURL, // this sets the image that represents the marker in the map
                title: "Eidos Montreal",
-               window_content: '<h1>Marker3</h1><img title="Picture of Quote. Src: someone, some year"  src="https://s-media-cache-ak0.pinimg.com/736x/6d/e2/25/6de2251b8b4be709dcc936ae4f0caaaf.jpg"/>' +
-               '<blockquote>quote quote quote quote</blockquote>'
+               window_content: '<h1>Eidos Montreal</h1><p>A subsidiary of Square Enix, they are the team behind the recent entries into the <i>Deus Ex</i>, <i>Tomb Raider</i> and <i> Thief</i> franchises</p>'
+
              },
              {position: new google.maps.LatLng(45.530152,-73.598626),
               map: my_map,
               icon: blueURL, // this sets the image that represents the marker in the map
               title: "Gameloft Montreal",
-              window_content: '<h1>Marker3</h1><img title="Picture of Quote. Src: someone, some year"  src="https://s-media-cache-ak0.pinimg.com/736x/6d/e2/25/6de2251b8b4be709dcc936ae4f0caaaf.jpg"/>' +
-              '<blockquote>quote quote quote quote</blockquote>'
+              window_content: '<h1>Gameloft Montreal</h1><p>A development studio specializing in mobile games, they are one of the largest mobile games studios in the industry</p>'
             },
             {position: new google.maps.LatLng(45.502028,-73.556273),
              map: my_map,
              icon: blueURL, // this sets the image that represents the marker in the map
              title: "Ludia Inc",
-             window_content: '<h1>Marker3</h1><img title="Picture of Quote. Src: someone, some year"  src="https://s-media-cache-ak0.pinimg.com/736x/6d/e2/25/6de2251b8b4be709dcc936ae4f0caaaf.jpg"/>' +
-             '<blockquote>quote quote quote quote</blockquote>'
+             window_content: '<h1>Ludia Inc</h1><p>A studio specializing in licensed mobile games for popular TV and movie IPs, such as <i>Jurassic Park</i> and <i>Battlestar Galactica</I><p/>'
            },
            {position: new google.maps.LatLng(45.525995,-73.597618),
             map: my_map,
             icon: blueURL, // this sets the image that represents the marker in the map
             title: "Ubisoft Montreal",
-            window_content: '<h1>Marker3</h1><img title="Picture of Quote. Src: someone, some year"  src="https://s-media-cache-ak0.pinimg.com/736x/6d/e2/25/6de2251b8b4be709dcc936ae4f0caaaf.jpg"/>' +
-            '<blockquote>quote quote quote quote</blockquote>'
+            window_content: '<h1>Ubisoft Montreal</h1><p>One of the first studios to be set up in Montreal, Ubisoft Montreal is known for some of the most popular video game series, including <i>Assassins\'s Creed</i>, <i>Far Cry</i>, and the Tom Clancy games</p>'
           },
           {position: new google.maps.LatLng(45.516570,-73.559170),
            map: my_map,
            icon: blueURL, // this sets the image that represents the marker in the map
            title: "Warner Brothers Games Montreal",
-           window_content: '<h1>Marker3</h1><img title="Picture of Quote. Src: someone, some year"  src="https://s-media-cache-ak0.pinimg.com/736x/6d/e2/25/6de2251b8b4be709dcc936ae4f0caaaf.jpg"/>' +
-           '<blockquote>quote quote quote quote</blockquote>'
+           window_content: '<h1>Warner Brothers Games Montreal</h1><p>A studio which produces game adaptations of Warner Brothers IPs, the most well known example being the Batman <i>Arkham</i> series</p> '
          },
          {position: new google.maps.LatLng(45.496761,-73.554729),
           map: my_map,
           icon: blueURL, // this sets the image that represents the marker in the map
           title: "Bethesda Games Montreal",
-          window_content: '<h1>Marker3</h1><img title="Picture of Quote. Src: someone, some year"  src="https://s-media-cache-ak0.pinimg.com/736x/6d/e2/25/6de2251b8b4be709dcc936ae4f0caaaf.jpg"/>' +
-          '<blockquote>quote quote quote quote</blockquote>'
+          window_content: '<h1>Bethesda Games Montreal</h1><p>A studio under Bethesda Games, a subsidiary of ZeniMax Media. Known for titles such as <i>Fallout</i> and <i>The Elder Scrolls</i></p>'
         },
               ];
 
