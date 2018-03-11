@@ -8,7 +8,7 @@ var my_markers = []; // we use this in the main loop below to hold the markers
 // this one is strange.  In google maps, there is usually only one
 // infowindow object -- its content and position change when you click on a
 // marker.  This is counterintuitive, but we need to live with it.
-var infowindow = new google.maps.InfoWindow({content: ""});
+var infowindow = new google.maps.InfoWindow({content:''});
 var legendHTML = "<h1>Studios\:</h1>";
 
 // I'm complicating things a bit with this next set of variables, which will help us

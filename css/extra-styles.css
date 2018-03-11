@@ -11,6 +11,11 @@
 div.container {
 }
 
+.gm-style-iw div * {
+    overflow: hidden !important;
+    line-height: 1.35em;
+}
+
 div#mapcontainer {
   font-family:Arial, sans-serif;
   font-size:11px;
