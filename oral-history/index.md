@@ -1,11 +1,8 @@
-
-
 <div class="sidepanel">
-              <!-- This is the div where all the popcorn action will hapen -->
               <div id="popcorn-container">
               </div>
             </div>
-
+            
 #### In examining the attack on Pearl Harbor and the war in the Pacific between Japan and the United States, military history often overshadows the experience of the average American with the American Pacific empire and with the effect of the war on the place of Hawaii in the American system. The audio above is an account given by Frank Curre on the Pearl Harbor attack, and although short, it tells us a lot about the perspective of a young, mainland American stationed in the Pacific and touches on a number of historical themes related to America’s integration of Hawaii during the war. His perspective on Hawaii, and the experience of the attack, displays attitudes that match the larger American perspective on their controlled islands in the pacific and the disconnect between mainland Americans and the residents of Hawaii. It also highlights the trauma of the attack on Pearl Harbor, and we can use this described trauma to explore how that experience impacted the relationship between Americans and Hawaiians through the transmission of accounts of the attack.
 
 ### “I went aboard the battleship in August. We headed for Pearl Harbor. I’d never even heard of it. I didn’t even know what it was.”
