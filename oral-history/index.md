@@ -1,33 +1,16 @@
-# Your Title should go in the appropriate place in `index.html`, not here! Title is itself set only in the `<head>` element
-
-## Use headings only if you want to have subsections in your essay
-
 <div class="sidepanel">
-              <!-- This is the div where all the popcorn action will hapen -->
               <div id="popcorn-container">
               </div>
             </div>
+            
+#### In examining the attack on Pearl Harbor and the war in the Pacific between Japan and the United States, military history often overshadows the experience of the average American with the American Pacific empire and with the effect of the war on the place of Hawaii in the American system. The audio above is an account given by Frank Curre on the Pearl Harbor attack, and although short, it tells us a lot about the perspective of a young, mainland American stationed in the Pacific and touches on a number of historical themes related to America’s integration of Hawaii during the war. His perspective on Hawaii, and the experience of the attack, displays attitudes that match the larger American perspective on their controlled islands in the pacific and the disconnect between mainland Americans and the residents of Hawaii. It also highlights the trauma of the attack on Pearl Harbor, and we can use this described trauma to explore how that experience impacted the relationship between Americans and Hawaiians through the transmission of accounts of the attack.
 
+### “I went aboard the battleship in August. We headed for Pearl Harbor. I’d never even heard of it. I didn’t even know what it was.”
 
+#### Hawaii was annexed as a territory of the United States in 1898 for the purpose of protecting American plantations and other economic interests on the island. An effect of annexation is that it expanded the U.S’s naval reach and set the stage for conflict between the U.S and Japan over military control of the Pacific [Matray, pg 489](https://journals-scholarsportal-info.myaccess.library.utoronto.ca/pdf/00028762/v117i0002/489_wmmpguip2px3.xml). Yet, Despite the importance of Hawaii as a territory, most Americans gave little thought to it until military personnel began being shipped to it in preparation for the war [Bailey and Farber, pg 17](https://portal.utoronto.ca/bbcswebdav/pid-6463252-dt-content-rid-42245973_2/courses/Winter-2018-JHA394H1-S-LEC0101/Bailey%20and%20Farber-Introduction.pdf). Its not surprising than that Curre had known nothing of Pearl Harbor, and we can understand this as part of the connection, or lack thereof, of most Americans to their Pacific acquisitions.
 
-Add your content here, including _markup_ of **various kinds**. Now you can just write! But you should be aware of a couple of advanced features of markdown:
-- you can embed HTML directly n a markdown file. This is great if you want to add complex attributes like **classes**, e.g. to your `img` tags so that they display properly.
-  - another use of embedded HTML is for funky javascript function links. I've written a simple function that will seek to a particular time code in seconds.  You can call it like this: `<a href="javascript:seek(75)">seek to 1:15</a>`, but `[seek to 1:15](javascript:seek(75))` won't render properly, so you have to type the whole linke in, as seen here: <a href="#" onclick="javascript:seek(75)"> seek to 1:15</a>.
-  - also, Remarkable supports pandoc-style footnotes, which can be helpful sometimes. Here are some examples of footnotes at work:
+### “That ship come 12 to 15 foot in the air, broke in two and settled back down. If you’d a had a bag of popcorn, and you’d a went out here in the breeze and threw it up in the air — that was bodies that went out all over that harbor… what happened on that day is tattooed on your soul. There’s no way I can forget that. I wish to God I could”
 
-    Footnote 1 link[^first].
+#### This description of the attack echoes a common description of the unexpected violence and destruction of it, and the shock of seeing such a major concentration of military power attacked like it was. This shock had very real effects on both the Hawaiian residents and the military personnel stationed there, which was that the experience of being attacked and having the war come so suddenly and so close created a sense of unity between the two groups and helped shift the identity of Hawaiians to consider themselves Americans because of their experience [Bailey and Farber, pg 29](https://portal.utoronto.ca/bbcswebdav/pid-6463252-dt-content-rid-42245973_2/courses/Winter-2018-JHA394H1-S-LEC0101/Bailey%20and%20Farber-Introduction.pdf). It also created a greater sense of connection for mainland Americans to the Hawaiian territory as they saw the attack as an attack on American soil. Accounts like Curre’s are key to this new identity, as transmitting the experience of the attack to people on the mainland created a shared trauma over it that strengthened this association [Burtness, pg 91](https://muse-jhu-edu.myaccess.library.utoronto.ca/article/677032/pdf).
 
-    Footnote 2 link[^second].
-
-    Inline footnote^[Text of inline footnote] definition.
-
-    Duplicated footnote reference[^second].
-
-you can learn more about remarkable on [its github page](https://github.com/jonschlinkert/remarkable), and get a fuller sense of the syntax [in the online demo](https://jonschlinkert.github.io/remarkable/demo/)
-
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
+#### Overall, although Curre’s account is limited in how it describes his experience, it has significance in how it provides us a close example of the larger historical trends related to Hawaii. The experience he describes of knowing nothing about Hawaii but than seeing the attack and how unforgettable it was provides us a personal account of how the Pearl Harbor attack shifted America’s relationship with the territory and its people, and created a connection between the military and the civilian population that changed the nature of what it meant to be Hawaiian and American for the duration of the war and after. It also highlights the importance of even limited oral accounts to exploring historical events like the Pearl Harbor attack, as it grounds the larger historical trends in individual experiences that expand our ability to interact with these trends.
